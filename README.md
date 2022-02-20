@@ -11,6 +11,8 @@ Mi configuración de Arch Linux
 |   Kazam  |
 |   VSC    |
 |  Thunar  |
+|  Picom   |
+|  Polybar |
 
 
 * Como tipo de shell:
