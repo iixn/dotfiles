@@ -11,7 +11,7 @@ Programas que uso:
 |  Rofi   |
 |---------|
 |  Kazam  |
-|---------|
+|         |
 |   VSC   |
-|---------|
+|         |
 | Thunar  |
