@@ -13,7 +13,7 @@ Programas que uso:
 |  Thunar  |
 
 
-Como tipo de shell:
+* Como tipo de shell:
 
 **ZSH**
 
@@ -24,7 +24,7 @@ en cambio uso
 En mi .config hay un archivo llamado starship.toml.Ahí puedes configurar el prompt
 ![starship.toml](./.config/starship.toml)
 
-Como tipo de terminal:
+* Como tipo de terminal:
 **Alacritty**
 
 Puedes descargarla ![aquí](https://github.com/alacritty/alacritty)
