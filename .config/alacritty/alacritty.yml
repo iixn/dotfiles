@@ -1,0 +1,13 @@
+window.opacity: 0.9
+font:
+  bold:
+    family: UbuntuMono Nerd Font
+  italic:
+    family: UbuntuMono Nerd Font
+  normal:
+    family: UbuntuMono Nerd Font
+    style: Dracula
+  size: 15.0
+window:
+  padding:
+    x: 5
