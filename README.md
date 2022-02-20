@@ -8,7 +8,6 @@ Creo que sobra decir que algunas cosas de mi configuración las he copiado de ot
 Programas que uso
 
 
-|------|
 | Rofi |
 |------|
 |      |
