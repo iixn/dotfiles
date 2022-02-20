@@ -23,3 +23,8 @@ en cambio uso
 ```starship```
 En mi .config hay un archivo llamado starship.toml.Ahí puedes configurar el prompt
 ![starship.toml](./.config/starship.toml)
+
+Como tipo de terminal:
+**Alacritty**
+
+Puedes descargarla ![aquí](https://github.com/alacritty/alacritty)
