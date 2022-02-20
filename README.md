@@ -3,7 +3,7 @@ Mi configuración de Arch Linux
 
 ![](./images/entorno.png)
 
-Programas que uso:
+* Programas que uso:
 
 
 |   Rofi   |
