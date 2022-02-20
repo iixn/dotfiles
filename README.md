@@ -5,9 +5,10 @@ Mi configuración de Arch Linux
 
 Creo que sobra decir que algunas cosas de mi configuración las he copiado de otras personas.Estaré dejando sus cuentas por todo el README
 
-Programas que uso
+Programas que uso:
 
 
-| Rofi |
-|------|
-|      |
+| Rofi  |
+|-------|
+| Kazam |
+|-------|
